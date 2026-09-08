@@ -7,7 +7,7 @@ I work across data science and AI engineering, from cleaning and modeling raw da
 - [hotel-booking-agent](https://github.com/naresh25peta-cell/hotel-booking-agent) - a multi-agent LLM assistant built with LangGraph, with guardrails, observability, and CI/CD to AWS
 - [loan-modeling-two-stage-pipeline](https://github.com/naresh25peta-cell/loan-modeling-two-stage-pipeline) - a two-stage pipeline chaining a regression model into a classifier, with leakage-aware feature design
 - [machine-failure-prediction](https://github.com/naresh25peta-cell/machine-failure-prediction) - predictive maintenance under heavy class imbalance, comparing three models on precision/recall tradeoffs
-- [EDA_austo_automobiles](https://github.com/naresh25peta-cell/EDA_austo_automobiles) - exploratory analysis translating customer data into a market-segmentation recommendation
+- [austo-automobiles-eda](https://github.com/naresh25peta-cell/austo-automobiles-eda) - exploratory analysis translating customer data into a market-segmentation recommendation
 
 **How I approach a project:**
 - Start with the data, not the model, bad inputs sink good algorithms
