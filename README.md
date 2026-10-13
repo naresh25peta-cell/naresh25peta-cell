@@ -5,6 +5,7 @@ I work across data science and AI engineering, from cleaning and modeling raw da
 
 
 **What I'm building:**
+- [mcp-agent-platform](https://github.com/naresh25peta-cell/mcp-agent-platform) - MCP tool servers driven by a LangGraph agent, with guardrails, CI-gated evals, and OpenTelemetry tracing
 - [document-qa](https://github.com/naresh25peta-cell/document-qa) - a local RAG app with hybrid (keyword + semantic) search, source citations, and evaluation benchmarks
 - [clauseguard](https://github.com/naresh25peta-cell/clauseguard) - LLM-powered contract clause extraction, compliance scoring, and MSA risk scanning
 - [clause-risk-finetune](https://github.com/naresh25peta-cell/clause-risk-finetune) - LoRA fine-tune vs zero-shot prompting for contract clause risk rating
